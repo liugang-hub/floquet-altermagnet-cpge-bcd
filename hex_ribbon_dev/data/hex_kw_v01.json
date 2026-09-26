@@ -1,0 +1,36 @@
+{
+ "params": {
+  "A": 100.0,
+  "B": -686.0,
+  "D": -512.0,
+  "M0": -10.0,
+  "HW": 150.0,
+  "A0": 0.06,
+  "tilt": 30.0,
+  "J0": 160.0,
+  "Ny": 10,
+  "Kpts": 201,
+  "lattice": "triangular a=1, ribbon along a1, 2 orbs/site"
+ },
+ "spins": {
+  "up": {
+   "At": 103.2928,
+   "Mt": -7.7704,
+   "V1_bulk_maxde": 1.8189894035458565e-12,
+   "V2_bands_maxde_pluskx": 69.10465056628425,
+   "V2_bands_maxde_minuskx": 1.000444171950221e-11,
+   "V1_PASS": true,
+   "V2_PASS": true
+  },
+  "dn": {
+   "At": 96.7072,
+   "Mt": -7.2904,
+   "V1_bulk_maxde": 1.8189894035458565e-12,
+   "V2_bands_maxde_pluskx": 69.10469760798878,
+   "V2_bands_maxde_minuskx": 7.275957614183426e-12,
+   "V1_PASS": true,
+   "V2_PASS": true
+  }
+ },
+ "ALL_PASS": true
+}
